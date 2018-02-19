@@ -7,8 +7,15 @@
   "author": "Zaiens (http://www.zaiens.io)",
   "license": " ",
   "private": true,
+  "scripts": {
+    "start": "webpack-dev-server index.js"
+  },
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
   }
 }
