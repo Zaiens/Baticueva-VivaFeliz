@@ -1,0 +1,14 @@
+{
+  "name": "Baticueva-VivaFeliz",
+  "version": "1.0.0",
+  "description": "FrontEnd del catalogo de Viva Feliz del proyecto BatiCueva.",
+  "main": "index.js",
+  "repository": "https://github.com/Zaiens/Baticueva-VivaFeliz.git",
+  "author": "Zaiens (http://www.zaiens.io)",
+  "license": " ",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
